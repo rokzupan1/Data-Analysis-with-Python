@@ -28,3 +28,5 @@ In Jupyter there is command mode and edit mode, you can also add code or you can
 NumPy is a very efficient numeric processing library, that sits on top of Python, and gives you the same APIs as you're going to work with
 just writing and typing code. 
 * [NumPy - tutorial](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/NumPy.ipynb)
+### Pandas
+The two main data structures in Pandas are Series for 1-D data and DataFrame for 2-D data. Data in higher dimensions are supported within DataFrame using a concept called hierarchical indexing.
