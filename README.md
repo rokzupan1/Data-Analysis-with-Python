@@ -24,6 +24,7 @@ interactive widgets for building user interfaces. In summary, VSCode is a versat
 tasks, while Jupyter Lab is a specialized environment for data science and scientific computing. The choice between the two will depend on your 
 specific needs and the tasks you are trying to accomplish.
 In Jupyter there is command mode and edit mode, you can also add code or you can add markdown just like in Jupyter.
+### NumPy
 NumPy is a very efficient numeric processing library, that sits on top of Python, and gives you the same APIs as you're going to work with
 just writing and typing code. 
 * [NumPy - tutorial](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/NumPy.ipynb)
