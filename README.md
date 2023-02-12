@@ -8,7 +8,7 @@ Sometimes R is better than Python: when dealing with advanced statistical method
 Data Extraction --> Data Cleaning --> Data Wrangling --> Analysis --> Action
 In real world the process isn't linear. Usually we're skipping back and forth between these steps.
 ### Jupyter
-What is the difference between Jupyter Notebook and Jupyter Lab
+What is the difference between Jupyter Notebook and Jupyter Lab.
 Jupyter Lab is just a nicer interface on top of Jupyter Notebook. It is the evolution of Jupyter Notebook. In previous tutorials
 I was working in Visual Studio Code and I was using Jupyter Notebooks. 
 Why do we use Jupyter Notebook? Because it's an interactive real time environment to produce or to explore our data analysis.
