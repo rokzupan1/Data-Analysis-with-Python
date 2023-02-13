@@ -15,3 +15,9 @@ just writing and typing code.
 * [NumPy - tutorial](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/NumPy.ipynb)
 ### Pandas
 The two main data structures in Pandas are Series for 1-D data and DataFrame for 2-D data. Data in higher dimensions are supported within DataFrame using a concept called hierarchical indexing.
+* [Pandas - tutorial](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/Pandas.ipynb)
+### Data Cleaning
+Data cleaning, also known as data cleansing or data wrangling, is the process of identifying and correcting errors, inconsistencies, and inaccuracies in data. This is a crucial step in the data science process as it helps to ensure that the results of any analysis or modeling are based on high-quality data.
+* [Data cleaning](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/DataCleaning.ipynb)
+### Real Example
+* [Real Example](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/RealExample.ipynb)
