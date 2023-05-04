@@ -23,7 +23,7 @@ Data cleaning, also known as data cleansing or data wrangling, is the process of
 * [Real Example](https://github.com/rokzupan1/data-analysis-with-python/blob/main/Real%20Example/RealExample.ipynb)
 * [DataRealExample](https://github.com/rokzupan1/data-analysis-with-python/blob/main/Real%20Example/btc-eth-prices-outliers.csv)
 ### Exercise 1 and 2
-* [Exercise1](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/BikeStoreSales.ipynb)
+* [Exercise1](https://github.com/rokzupan1/data-analysis-with-python/blob/main/Exercise%201%20and%202/BikeStoreSales.ipynb)
 * [DataExcercise1](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/sales_data.csv)
-* [Exercise2](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/SakilaLecture%2BExercise.ipynb)
+* [Exercise2](https://github.com/rokzupan1/data-analysis-with-python/blob/main/Exercise%201%20and%202/SakilaLecture%2BExercise.ipynb)
 * [DataExcercise2](https://github.com/rokzupan1/Data-Analysis-with-Python/blob/main/sakila.db)
